@@ -1,4 +1,4 @@
-# How to emulate network conditions in Java-selenium on LambdaTest
+# How to emulate network conditions in Java-selenium automation test on LambdaTest
 ![Java](https://www.lambdatest.com/support/assets/images/og-images/Java-with-Selenium-1-1.jpg)
 
 ### Prerequisites
