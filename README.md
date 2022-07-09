@@ -13,6 +13,14 @@
      install maven
     ```
     
+### Set network conditions
+
+To set network conditions, devTools can be used like so:
+
+```java
+devTools.send(Network.emulateNetworkConditions(false, 0, 2 * 1024 * 1024, 2 * 1024 * 1024, Optional.empty()));
+```
+
 ### Run your First Test
 1. Clone the Java-Selenium-Sample repository. 
 ```
